@@ -1,0 +1,464 @@
+1
+David JohnsonRB - ARI	8	even	67
+2
+Le'Veon BellRB - PITView Videos
+9	even	62
+3
+Ezekiel ElliottRB - DALView NewsView Videos
+6	even	59
+4
+Antonio BrownWR - PITView Videos
+9	even	55
+5
+Julio JonesWR - ATLView Videos
+5	even	53
+6
+Odell BeckhamWR - NYGView Videos
+8	even	52
+7
+Mike EvansWR - TBView Videos
+11	even	52
+8
+LeSean McCoyRB - BUF	6	even	51
+9
+Melvin GordonRB - LACView Videos
+9	even	48
+10
+DeMarco MurrayRB - TEN	8	even	45
+11
+A.J. GreenWR - CIN	6	even	49
+12
+Jay AjayiRB - MIAView News	11	even	45
+13
+Devonta FreemanRB - ATLView Videos
+5	even	42
+14
+Jordy NelsonWR - GBView Videos
+8	even	43
+15
+Jordan HowardRB - CHI	9	even	39
+16
+Michael ThomasWR - NO	5	even	41
+17
+Dez BryantWR - DALView Videos
+6	even	38
+18
+T.Y. HiltonWR - INDView NewsView Videos
+11	even	38
+19
+Todd GurleyRB - LA	8	even	32
+20
+Marshawn LynchRB - OAKView Videos
+10	even	30
+21
+Leonard FournetteRB - JAXView Videos
+8	even	28
+22
+Brandin CooksWR - NEView Videos
+9	even	30
+23
+Doug BaldwinWR - SEA	6	even	28
+24
+Rob GronkowskiTE - NEView Videos
+9	even	27
+25
+Lamar MillerRB - HOU	7	even	26
+26
+Amari CooperWR - OAKView Videos
+10	even	28
+27
+DeAndre HopkinsWR - HOU	7	even	27
+28
+Isaiah CrowellRB - CLE	9	even	25
+29
+Joe MixonRB - CIN	6	even	24
+30
+Christian McCaffreyRB - CARView Videos
+11	even	22
+31
+Demaryius ThomasWR - DEN	5	even	21
+32
+Carlos HydeRB - SFView News	11	even	21
+33
+Terrelle PryorWR - WASView Videos
+5	even	19
+34
+Alshon JefferyWR - PHIView Videos
+10	even	19
+35
+Allen RobinsonWR - JAX	8	even	18
+36
+C.J. AndersonRB - DEN	5	even	19
+37
+Sammy WatkinsWR - BUF	6	even	17
+38
+Michael CrabtreeWR - OAKView Videos
+10	even	17
+39
+Tyreek HillWR - KCView Videos
+10	even	16
+40
+Jarvis LandryWR - MIAView Videos
+11	even	16
+41
+Travis KelceTE - KC	10	even	22
+42
+Aaron RodgersQB - GBView Videos
+8	even	31
+43
+Jordan ReedTE - WAS	5	even	18
+44
+Tom BradyQB - NEView Videos
+9	even	28
+45
+Bilal PowellRB - NYJ	11	even	18
+46
+Dalvin CookRB - MIN	9	even	18
+47
+Spencer WareRB - KCView NewsView Videos
+10	even	17
+48
+Emmanuel SandersWR - DENView Videos
+5	even	16
+49
+Golden TateWR - DET	7	even	15
+50
+Keenan AllenWR - LACView Videos
+9	even	15
+51
+Greg OlsenTE - CARView Videos
+11	even	16
+52
+Davante AdamsWR - GB	8	even	14
+53
+Drew BreesQB - NOView Videos
+5	even	25
+54
+Frank GoreRB - INDView News	11	even	17
+55
+Mike GillisleeRB - NE	9	even	16
+56
+Ty MontgomeryRB - GBView Videos
+8	even	16
+57
+Larry FitzgeraldWR - ARI	8	even	14
+58
+Andrew LuckQB - INDView Videos
+11	even	25
+59
+Stefon DiggsWR - MIN	9	even	14
+60
+Mark IngramRB - NOView Videos
+5	even	15
+61
+Eddie LacyRB - SEAView Videos
+6	even	15
+62
+Jamison CrowderWR - WASView News	5	even	13
+63
+Ameer AbdullahRB - DET	7	even	14
+64
+Paul PerkinsRB - NYG	8	even	14
+65
+Tevin ColemanRB - ATL	5	even	13
+66
+Donte MoncriefWR - IND	11	even	13
+67
+Martavis BryantWR - PITView Videos
+9	even	13
+68
+LeGarrette BlountRB - PHIView Videos
+10	even	13
+69
+Julian EdelmanWR - NE	9	even	12
+70
+DeSean JacksonWR - TBView Videos
+11	even	12
+71
+Jimmy GrahamTE - SEA	6	even	13
+72
+Matt RyanQB - ATL	5	even	18
+73
+Doug MartinRB - TB	11	even	13
+74
+Danny WoodheadRB - BAL	10	even	11
+75
+Delanie WalkerTE - TEN	8	even	10
+76
+Adrian PetersonRB - NOView Videos
+5	even	10
+77
+Tyler EifertTE - CIN	6	even	9
+78
+Theo RiddickRB - DETView News	7	even	10
+79
+Pierre GarconWR - SF	11	even	10
+80
+Kelvin BenjaminWR - CAR	11	even	10
+81
+Willie SneadWR - NO	5	even	9
+82
+Corey DavisWR - TEN	8	even	9
+83
+Brandon MarshallWR - NYG	8	even	8
+84
+Marcus MariotaQB - TENView Videos
+8	even	16
+85
+Matt ForteRB - NYJView News	11	even	9
+86
+Russell WilsonQB - SEAView Videos
+6	even	16
+87
+Rob KelleyRB - WASView News	5	even	8
+88
+Samaje PerineRB - WAS	5	even	8
+89
+Derrick HenryRB - TEN	8	even	7
+90
+Kareem HuntRB - KC	10	even	7
+91
+Eric DeckerWR - TENView Videos
+8	even	7
+92
+Cam NewtonQB - CARView Videos
+11	even	15
+93
+Kyle RudolphTE - MIN	9	even	7
+94
+Dak PrescottQB - DALView Videos
+6	even	11
+95
+Kenneth DixonRB - BAL	10	even	6
+96
+Cameron MeredithWR - CHI	9	even	7
+97
+Kenny BrittWR - CLEView Videos
+9	even	6
+98
+Jeremy MaclinWR - BAL	10	even	6
+99
+Jonathan StewartRB - CARView News	11	even	6
+100
+John BrownWR - ARI	8	even	5
+s101
+Kirk CousinsQB - WAS	5	even	11
+102
+Adam ThielenWR - MIN	9	even	5
+103
+Darren SprolesRB - PHI	10	even	6
+104
+Matthew StaffordQB - DETView Videos
+7	even	9
+105
+C.J. ProsiseRB - SEAView Videos
+6	even	5
+106
+Marvin JonesWR - DET	7	even	5
+107
+Jameis WinstonQB - TBView Videos
+11	even	7
+108
+Duke JohnsonRB - CLE	9	even	5
+109
+Corey ColemanWR - CLE	9	even	5
+110
+Jack DoyleTE - IND	11	even	6
+111
+Joe WilliamsRB - SF	11	even	4
+112
+James WhiteRB - NE	9	even	4
+113
+Latavius MurrayRB - MINView News	9	even	3
+114
+Quincy EnunwaWR - NYJ	11	even	4
+115
+Jamaal WilliamsRB - GB	8	even	3
+116
+Mike WallaceWR - BAL	10	even	4
+117
+Eric EbronTE - DETView News	7	even	6
+118
+Rishard MatthewsWR - TEN	8	even	3
+119
+Randall CobbWR - GB	8	even	3
+120
+Jordan MatthewsWR - PHI	10	even	3
+121
+DeVante ParkerWR - MIA	11	even	3
+122
+Martellus BennettTE - GB	8	even	5
+123
+Derek CarrQB - OAKView Videos
+10	even	7
+124
+Tyrell WilliamsWR - LACView Videos
+9	even	3
+125
+Tyrod TaylorQB - BUF	6	even	6
+126
+Hunter HenryTE - LAC	9	even	5
+127
+Alvin KamaraRB - NO	5	even	3
+128
+Zach ErtzTE - PHI	10	even	4
+129
+Ben RoethlisbergerQB - PITView Videos
+9	even	6
+130
+Will FullerWR - HOU	7	even	3
+131
+Zay JonesWR - BUF	6	even	3
+132
+Sterling ShepardWR - NYG	8	even	3
+133
+Terrance WestRB - BAL	10	even	2
+134
+Breshad PerrimanWR - BAL	10	even	2
+135
+Philip RiversQB - LACView Videos
+9	even	6
+136
+Jeremy HillRB - CINView Videos
+6	even	2
+137
+Jamaal CharlesRB - DENView News	5	even	2
+138
+Charles SimsRB - TBView News	11	even	2
+139
+Ted GinnWR - NO	5	even	2
+140
+Josh DoctsonWR - WAS	5	even	2
+141
+Robert WoodsWR - LAView News	8	even	2
+142
+Mike WilliamsWR - LACView Videos
+9	even	2
+143
+Coby FleenerTE - NO	5	even	2
+144
+John RossWR - CIN	6	even	2
+145
+Kevin WhiteWR - CHI	9	even	2
+146
+Kansas City ChiefsDEFView Videos
+10	even	5
+147
+Jason WittenTE - DAL	6	even	2
+148
+Tavon AustinWR - LA	8	even	1
+149
+Taylor GabrielWR - ATL	5	even	1
+150
+Curtis SamuelWR - CAR	11	even	1
+151
+Tyler LockettWR - SEA	6	even	1
+152
+Denver BroncosDEFView Videos
+5	even	5
+153
+Kenny StillsWR - MIA	11	even	1
+154
+Antonio GatesTE - LACView Videos
+9	even	2
+155
+Andy DaltonQB - CINView Videos
+6	even	4
+156
+Robby AndersonWR - NYJView News	11	even	1
+157
+Julius ThomasTE - MIA	11	even	2
+158
+Giovani BernardRB - CINView News	6	even	2
+159
+J.J. NelsonWR - ARI	8	even	1
+160
+Carson WentzQB - PHIView Videos
+10	even	4
+161
+Shane VereenRB - NYG	8	even	2
+162
+C.J. FiedorowiczTE - HOU	7	even	1
+163
+Eli ManningQB - NYGView Videos
+8	even	3
+164
+Seattle SeahawksDEF	6	even	4
+165
+Carson PalmerQB - ARI	8	even	3
+166
+Justin TuckerK - BAL	10	even	3
+167
+O.J. HowardTE - TB	11	even	1
+168
+Blake BortlesQB - JAX	8	even	2
+169
+Jacquizz RodgersRB - TB	11	even	1
+170
+Marqise LeeWR - JAX	8	even	1
+171
+Chris ThompsonRB - WAS	5	even	1
+172
+Jonathan WilliamsRB - BUF	6	even	1
+173
+Rex BurkheadRB - NE	9	even	1
+174
+Jerick McKinnonRB - MIN	9	even	1
+175
+Mohamed SanuWR - ATL	5	even	1
+176
+Jalen RichardRB - OAK	10	even	1
+177
+D'Onta ForemanRB - HOU	7	even	1
+178
+Ryan TannehillQB - MIAView Videos
+11	even	1
+179
+Cole BeasleyWR - DAL	6	even	1
+180
+T.J. YeldonRB - JAX	8	even	1
+181
+DeAndre WashingtonRB - OAK	10	even	1
+182
+Thomas RawlsRB - SEAView Videos
+6	even	1
+183
+Wendell SmallwoodRB - PHI	10	even	1
+184
+Dion LewisRB - NEView NewsView Videos
+9	even	1
+185
+Darren McFaddenRB - DAL	6	even	1
+186
+Stephen GostkowskiK - NE	9	even	2
+187
+Minnesota VikingsDEFView Videos
+9	even	4
+188
+Robert TurbinRB - IND	11	even	1
+189
+New England PatriotsDEFView Videos
+9	even	3
+190
+Kenyan DrakeRB - MIA	11	even	1
+191
+Allen HurnsWR - JAX	8	even	1
+192
+Matt BryantK - ATL	5	even	2
+193
+Chris IvoryRB - JAX	8	even	1
+194
+Houston TexansDEF	7	even	1
+195
+Tim HightowerRB - SFView News	11	even	1
+196
+David NjokuTE - CLE	9	even	1
+197
+Arizona CardinalsDEF	8	even	3
+198
+Branden OliverRB - LAC	9	even	1
+199
+Devontae BookerRB - DEN	5	even	1
+200
+Torrey SmithWR - PHIView Videos
+10	even	1
