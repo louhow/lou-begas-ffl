@@ -241,7 +241,7 @@ Jeremy MaclinWR - BAL	10	even	6
 Jonathan StewartRB - CARView News	11	even	6
 100
 John BrownWR - ARI	8	even	5
-s101
+101
 Kirk CousinsQB - WAS	5	even	11
 102
 Adam ThielenWR - MIN	9	even	5

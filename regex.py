@@ -24,7 +24,7 @@ file_filters = [
     [
       Filter(
         '\d+\.	(.*) \(.* \- (.*)\)	\$(\d+)',
-        '\\1  \\2  \\3'
+        '\\1	\\2	\\3'
       )
     ]
   ),
@@ -38,17 +38,18 @@ file_filters = [
       ),
       Filter(
         '.*layer Note.*\n'
-        '(.*) .* \- (RB|WR|TE|QB|K|DEF) ?.*\n'
+        '(.*) (.*) \- (RB|WR|TE|QB|K|DEF) ?.*\n'
         '(.*\n)?'
         '.* \d+:\d+.*\n'
         '\$\n'
         '\d+\n'
         '-	\$(\d+)	\$(\d+)	\$(\d+\.\d+)	.*\n',
-        '\\1	\\2	\\5	\\6'
+        '\\1	\\3	\\2	\\6	\\7'
       )
     ]
   ),
   # http://games.espn.com/ffl/livedraftresults?sort=aav
+  # TODO is there a '*' after some player names?
   FileFilter(
     'espn',
     [
@@ -66,7 +67,7 @@ file_filters = [
     'nfl',
     [
       Filter('View Videos\n', ''),
-      Filter('DEF', 'DEF -'),  # Ugly, but insert the hyphen to match on for all other casess
+      Filter('DEF', 'DEF -'),  # Ugly, but insert the hyphen to match on for all other cases
       Filter(
         '\d+.*\n'
         '(.*)(RB|WR|QB|TE|DEF|K) \-.*	(\d+)',
@@ -77,7 +78,9 @@ file_filters = [
 ]
 
 constant_filters = [
-  Filter('(Jr\. )?', '')
+  Filter('Jr\.', ''),
+  Filter('Sr\.', ''),
+  Filter('Robert Kelley', 'Rob Kelley')
 ]
 
 def apply_filters(data, filters):
